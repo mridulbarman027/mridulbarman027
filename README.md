@@ -7,7 +7,7 @@ Android & Full Stack Developer. Founder at Nearbuck.
 I have been learning and developing apps and website for last 7+ years. 
 Currently working in Nearbuck that is solving problems of SME.
 
-* 🌍  I'm based in Guwahati, Assam, India
+* 🌍  I'm based in Bengaluru, Karnataka, India
 * ✉️  You can contact me at [mridulbarman027@gmail.com](mailto:mridulbarman027@gmail.com)
 * 🚀  I'm currently working on [Nearbuck](http://https://play.google.com/store/apps/details?id=com.nearbuck.android)
 * 🧠  I'm learning Svelte, Flutter & Jetpack Compose
