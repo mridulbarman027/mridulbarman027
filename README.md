@@ -1,7 +1,7 @@
 Hi 👋 My name is Mridul Barman
 ==============================
 
-Android & Full Stack Developer. Founder at Nearbuck.
+Android & Full Stack Developer. 
 ----------------------------------------------------
 
 I have been learning and developing apps and website for last 7+ years. 
